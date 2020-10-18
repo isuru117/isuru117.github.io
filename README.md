@@ -1,2 +1,2 @@
 # Isuru Edirisinghe
-My Personal Profile
+Welcome to my about page hosted on GitHub!
