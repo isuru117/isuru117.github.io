@@ -1,17 +1,14 @@
 body{
-	background-color: #333333;
+	font: 400 18px Lato, sans-serif;
+	background-color: #353535;
 }
 
 body > .container{
-	background-color: rgba(255,255,255,0.8);
+	background-color: #DDDDDD;
 	-webkit-box-shadow: 0px 0px 12px rgba(0,0,0,0.45);
 	-moz-box-shadow: 0px 0px 12px rgba(0,0,0,0.45);
 	box-shadow: 0px 0px 12px rgba(0,0,0,0.45);
 	border-radius: 5px;
-}
-
-.left {
-
 }
 
 #profileImageNode {
